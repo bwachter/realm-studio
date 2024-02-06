@@ -1,12 +1,6 @@
 # Changelog
 
-## vNext (TBD)
-
-### Enhancements
-* None
-
-### Fixed
-* None
+## 14.1.2 (2024-02-06)
 
 ### Internals
 * Foo bar baz
