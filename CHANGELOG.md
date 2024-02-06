@@ -1,12 +1,10 @@
 # Changelog
 
-## vNext (TBD)
+## 14.2.0 (2024-02-06)
 
 ### Enhancements
 * Something
 
-### Fixed
-* None
 
 ## 14.1.3 (2024-02-06)
 
